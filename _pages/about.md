@@ -15,3 +15,4 @@ Previously, I worked at [KONA](https://konai.com), where I developed mobile paym
 
 I am open for collaborating in my research domain so fell free to message if you are interested! 
 
+[\[High Resolution Photo\]](https://saminmahmud.com/images/profile.png)
