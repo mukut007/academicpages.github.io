@@ -82,10 +82,8 @@ analytics:
 author:
   name             : "Samin Y Mahmud"
   avatar           : "profile.png"
-  bio              : "<p class="author__bio">
-                        Ethnographer of computation and computational ethnographer; research staff at the 
-                        <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>
-                    </p>"
+  bio              : "Ethnographer of computation and computational ethnographer; research staff at the 
+                        <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
   location         : "Raleigh, NC"
   employer         : 
   pubmed           : 
