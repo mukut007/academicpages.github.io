@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- *Cardpliance: PCI DSS Compliance of Android Applications*.     
-**Samin Yaseer Mahmud**, Akhil Acharya, Benjamin Andow, William Enck, and Bradley Reaves.    
-In Proceedings of the 29th USENIX Security Symposium (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](http://saminmahmud.com/files/papers/cardpliance.pdf)
+- **Samin Yaseer Mahmud**, Akhil Acharya, Benjamin Andow, William Enck, and Bradley Reaves. *Cardpliance: PCI DSS Compliance of Android Applications*. In Proceedings of the 29th USENIX Security Symposium (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](http://saminmahmud.com/files/papers/cardpliance.pdf)
 
 - *Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck*.     
 Benjamin Andow, **Samin Yaseer Mahmud**, Justin Whitaker, William Enck, Bradley Reaves, Kapil Singh, and Serge Egelman.    
