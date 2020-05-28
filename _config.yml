@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Samin Y Mahmud"
-  avatar           : "samin.jpg"
+  avatar           : "profile.png"
   bio              : "Research Assistant"
-  location         : "Raleigh, NC"
-  employer         : "https://wspr.csc.ncsu.edu/people.html"
+  location         : "NCSU WSPR Lab"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIv6y_MAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Samin_Mahmud"
-  uri              :
+  researchgate     : 
+  uri              : "https://wspr.csc.ncsu.edu/people.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
