@@ -82,14 +82,17 @@ analytics:
 author:
   name             : "Samin Y Mahmud"
   avatar           : "profile.png"
-  bio              : "Research Assistant"
-  location         : "NCSU WSPR Lab"
+  bio              : "<p class="author__bio">
+                        Ethnographer of computation and computational ethnographer; research staff at the 
+                        <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>
+                    </p>"
+  location         : "Raleigh, NC"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIv6y_MAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     : 
-  uri              : "https://wspr.csc.ncsu.edu/people.html"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
