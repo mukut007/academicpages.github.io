@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Samin Y Mahmud"
-  avatar           : "profile.png"
-  bio              : "Ethnographer of computation and computational ethnographer; research staff at the 
-                        <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
+  avatar           : "profile copy.png"
+  bio              : "Research Assistant at 
+                        <a style='color: blue;' href='https://wspr.csc.ncsu.edu/people.html'>Wolfpack Security and Privacy Research Lab</a>"
   location         : "Raleigh, NC"
   employer         : 
   pubmed           : 
