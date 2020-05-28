@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="http://saminmahmud.com/files/resume.pdf" width="80%" height="600px"></iframe>
+<iframe src="https://saminmahmud.com/files/resume.pdf" width="80%" height="600px"></iframe>
