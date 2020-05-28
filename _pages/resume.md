@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 <iframe src="https://saminmahmud.com/files/resume.pdf" width="80%" height="600px"></iframe>
+
+[\[PDF\]](https://saminmahmud.com/files/resume.pdf)
