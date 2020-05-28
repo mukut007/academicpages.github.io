@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Samin Yaseer Mahmud**, Akhil Acharya, Benjamin Andow, William Enck, and Bradley Reaves. *Cardpliance: PCI DSS Compliance of Android Applications*, Proceedings of the USENIX Security Symposium (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](http://saminmahmud.com/files/papers/cardpliance.pdf)
