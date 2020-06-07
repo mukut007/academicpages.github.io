@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samin Yaseer Mahmud"
+title: "About me"
 excerpt: "Samin Yaseer Mahmud"
 author_profile: true
 redirect_from: 
