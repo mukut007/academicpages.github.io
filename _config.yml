@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Samin Yaseer Mahmud"
 title_separator          : "-"
 name                     : &name "Samin Yaseer Mahmud"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samin Yaseer Mahmud"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Graduate Research Assistant at 
                         <a style='color: black;' href='https://wspr.csc.ncsu.edu/people.html'>NCSU WSPR Lab</a>"
