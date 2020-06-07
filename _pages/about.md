@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Samin Yaseer Mahmud"
+title: "Samin Yaseer Mahmud"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
