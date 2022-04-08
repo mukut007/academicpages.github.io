@@ -33,6 +33,8 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **February 2021:** Got some exciting news! Got my first internship offer from [PayPal](https://www.paypal.com/us/home)!
 
+**February 2021:** I am attending NDSS 2021
+
 **August 2020:** Presented my [work](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) at USENIX Security,2020 
 
 **March 2020:** Passed my written prelim exam!
