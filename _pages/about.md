@@ -44,7 +44,6 @@ I am excited to share I will be interning with the Product Security team at Meta
 
 **May 2019:** Our paper [PolicyLint](https://www.usenix.org/system/files/sec19-andow.pdf) got accepted at USENIX Security!!
 
-**August 2018:** Started my Ph.D journey at NC State!
 
 
 
