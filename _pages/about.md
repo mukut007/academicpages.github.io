@@ -43,7 +43,7 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **December 2019:** Our paper [PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf) got accepted at USENIX Security!!
 
-**August 2018:** Started as a Research Assistant under [Dr. William Enck](https://www.enck.org)
+**August 2019:** Started as a Research Assistant under [Dr. William Enck](https://www.enck.org)
 
 **May 2019:** Our paper [PolicyLint](https://www.usenix.org/system/files/sec19-andow.pdf) got accepted at USENIX Security!!
 
