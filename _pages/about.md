@@ -26,6 +26,12 @@ I am excited to share I will be interning with the Product Security team at Meta
 
 **March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April 6, 2022 
 
-**February 2022:** I am excited to share I will be joining the Product Security team as a research intern at Facebook for the summer 2022!
+**February 2022:** I am excited to share I will be interning with the Product Security team at Facebook for the summer 2022!
+
+**May 2021:** Looking forward to my summer internship at PayPal with the Threat Management team!
+
+**March 2021:** I am hosting the Android App Developement bootcamp at [Diamond Hacks 2021](https://hopin.com/events/diamondhacks-2021#schedule)
+
+
 
 
