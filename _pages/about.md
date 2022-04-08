@@ -43,13 +43,13 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **November 2019:** Our [paper](https://www.usenix.org/system/files/sec20-andow.pdf), Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck, has been accepted for publication at the 2020 USENIX Security Symposium.
 
-**August 2019:** I started as a Research Assistant under supervision of [Dr. William Enck](https://www.enck.org).
+**August 2019:** I started working as a Research Assistant under supervision of [Dr. William Enck](https://www.enck.org).
 
 **May 2019:** Our [paper](https://www.usenix.org/system/files/sec19-andow.pdf), PolicyLint: Investigating Internal Privacy Policy Contradictions on Google Play, has been accepted for publication at the 2019 USENIX Security Symposium.
 
 **January 2019:** I joined the Wolfpack Security and Privacy Research[(WSPR)](https://wspr.csc.ncsu.edu/people.html) Lab. I will be a teaching assitant for Operating Systems (CSC 246) this Spring.
 
-**August 2018:** Starting my Ph.D journey in Computer Security at [NC State](https://www.csc.ncsu.edu). I will be a TA for C Programming and Tools (CSC 230) course this fall.
+**August 2018:** Starting my Ph.D journey in Computer Science at [NC State](https://www.csc.ncsu.edu). I will be a TA for C Programming and Tools (CSC 230) course this fall.
 
 
 
