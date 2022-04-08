@@ -22,5 +22,6 @@ I am excited to share I will be interning with the Product Security team at Meta
 
 ##Recent News:
 
-**April 2022:** Our poster won the [Best Poster Award](https://saminmahmud.com/publications/) at Hot Topic in Science of Security (HotSoS) Symposium 2022!
+**April 2022:** Our [poster](https://saminmahmud.com/publications/) won the Best Poster Award at Hot Topic in Science of Security (HotSoS) Symposium 2022!
+
 **March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April 6, 2022 
