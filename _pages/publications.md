@@ -21,4 +21,4 @@ author_profile: true
 
 # Poster Presentations:
 
-- **Samin Yaseer Mahmud** and William Enck. *A Study of Security Weaknesses in Android Payment Service Provider SDKs*. Hot Topics in the Science of Security Symposium, April 2022, University of Illinois, Urbana-Champaign , USA. [\[Link\]](https://cps-vo.org/node/82552) (🥇 Best Poster Award)
+- **Samin Yaseer Mahmud** and William Enck. *A Study of Security Weaknesses in Android Payment Service Provider SDKs*. Presented at Hot Topics in the Science of Security (HotSoS) Symposium, April 2022, University of Illinois, Urbana-Champaign , USA. [\[Link\]](https://cps-vo.org/node/82552) (🥇 Best Poster Award)
