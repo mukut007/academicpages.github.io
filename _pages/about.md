@@ -43,7 +43,13 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **December 2019:** Our paper [PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf) got accepted at USENIX Security!!
 
+**August 2018:** Started as a Research Assistant under [Dr. William Enck](https://www.enck.org)
+
 **May 2019:** Our paper [PolicyLint](https://www.usenix.org/system/files/sec19-andow.pdf) got accepted at USENIX Security!!
+
+**January 2019:** Joined [Wolfpack Security and Privacy Research](https://wspr.csc.ncsu.edu/people.html) (WSPR) Lab. I will be a teaching assitant for Operating Systems (CSC 246) this Spring
+
+**August 2018:** Starting my Ph.D journey at NC State. I will be a TA for C Programming and Tools (CSC 230) course this fall.
 
 
 
