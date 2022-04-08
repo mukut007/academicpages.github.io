@@ -32,11 +32,13 @@ I am excited to share I will be interning with the Product Security team at Meta
 
 **March 2021:** I am hosting the Android App Developement bootcamp at [Diamond Hacks 2021](https://hopin.com/events/diamondhacks-2021#schedule)
 
+**February 2021:** Got some exciting news! Got my first internship offer from [PayPal](https://www.paypal.com/us/home)!
+
 **August 2020:** Presented my [work](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) at USENIX Security,2020 
 
 **March 2020:** Passed my written prelim exam!
 
-**February 2020:** Our paper [Cardpliance](https://www.usenix.org/system/files/sec20-mahmud.pdf) got accepted at USENIX Security!!
+**February 2020:** Our paper [Cardpliance](https://www.usenix.org/system/files/sec20-mahmud.pdf) got accepted at USENIX Security!! I will be presenting our work virtually in August, 2020
 
 **December 2019:** Our paper [PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf) got accepted at USENIX Security!!
 
