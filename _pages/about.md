@@ -16,7 +16,6 @@ In Summer 2021, I interned at PayPal with the Threat management team supervised 
 Previously, I worked at [KONA](https://konai.com), where I developed mobile payment solutions for both android and iOS platforms and before that, I completed my Bachelors in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). 
 
 I am open for collaborating in my research domain so fell free to message if you are interested. 
-I am excited to share I will be interning with the Product Security team at Meta in this upcoming summer!
 
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
