@@ -31,23 +31,23 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **March 2021:** I am hosting the Android App Developement bootcamp at [Diamond Hacks 2021](https://hopin.com/events/diamondhacks-2021#schedule)
 
-**February 2021:** Got some exciting news! Got my first internship offer from [PayPal](https://www.paypal.com/us/home)!
+**February 2021:** Got some exciting news! I got my first internship offer from [PayPal](https://www.paypal.com/us/home)!
 
 **February 2021:** I am attending [NDSS 2021](https://www.ndss-symposium.org/ndss2021/)
 
-**August 2020:** Presented my [work](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) at USENIX Security,2020 
+**August 2020:** I presented our work [Cardpliance](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) at USENIX Security,2020 
 
-**March 2020:** Passed my written prelim exam!
+**March 2020:** I passed the written prelim exam!
 
-**February 2020:** Our paper [Cardpliance](https://www.usenix.org/system/files/sec20-mahmud.pdf) got accepted at USENIX Security!! I will be presenting our work virtually in August, 2020
+**February 2020:** Our [paper](https://www.usenix.org/system/files/sec20-mahmud.pdf), Cardpliance: PCI DSS Compliance of Android Applications has been accepted for publication at the 2020 USENIX Security Symposium.
 
-**December 2019:** Our paper [PoliCheck](https://www.usenix.org/system/files/sec20-andow.pdf) got accepted at USENIX Security!!
+**November 2019:** Our [paper]((https://www.usenix.org/system/files/sec20-andow.pdf)), Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck, has been accepted for publication at the 2020 USENIX Security Symposium.
 
-**August 2019:** Started as a Research Assistant under [Dr. William Enck](https://www.enck.org)
+**August 2019:** I started as a Research Assistant under supervision of [Dr. William Enck](https://www.enck.org)
 
-**May 2019:** Our paper [PolicyLint](https://www.usenix.org/system/files/sec19-andow.pdf) got accepted at USENIX Security!!
+**May 2019:** Our [paper]((https://www.usenix.org/system/files/sec19-andow.pdf)), PolicyLint: Investigating Internal Privacy Policy Contradictions on Google Play, has been accepted for publication at the 2019 USENIX Security Symposium.
 
-**January 2019:** Joined Wolfpack Security and Privacy Research[(WSPR)](https://wspr.csc.ncsu.edu/people.html) Lab. I will be a teaching assitant for Operating Systems (CSC 246) this Spring
+**January 2019:** I joined the Wolfpack Security and Privacy Research[(WSPR)](https://wspr.csc.ncsu.edu/people.html) Lab. I will be a teaching assitant for Operating Systems (CSC 246) this Spring
 
 **August 2018:** Starting my Ph.D journey at NC State. I will be a TA for C Programming and Tools (CSC 230) course this fall.
 
