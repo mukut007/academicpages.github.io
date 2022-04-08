@@ -49,7 +49,7 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **January 2019:** I joined the Wolfpack Security and Privacy Research[(WSPR)](https://wspr.csc.ncsu.edu/people.html) Lab. I will be a teaching assitant for Operating Systems (CSC 246) this Spring.
 
-**August 2018:** Starting my Ph.D journey at NC State. I will be a TA for C Programming and Tools (CSC 230) course this fall.
+**August 2018:** Starting my Ph.D journey in Computer Security at [NC State] (https://www.csc.ncsu.edu). I will be a TA for C Programming and Tools (CSC 230) course this fall.
 
 
 
