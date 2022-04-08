@@ -24,7 +24,7 @@ I am excited to share I will be interning with the Product Security team at Meta
 
 **April 2022:** Our [poster](https://saminmahmud.com/publications/) won the Best Poster Award at Hot Topic in Science of Security (HotSoS) Symposium 2022!
 
-**March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April 6, 2022 
+**March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April, 2022 
 
 **February 2022:** I am excited to share I have accepted an internship offer from the Product Security team at [Facebook](https://www.metacareers.com) for  summer 2022!
 
