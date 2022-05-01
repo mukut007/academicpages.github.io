@@ -21,6 +21,8 @@ I am open for collaborating in my research domain so fell free to message if you
 
 ## Recent News:
 
+**April 2022:** I passed my Oral Preliminary Exam (Ph.D. Proposal). Officially a Ph.D candidate now!
+
 **April 2022:** We won the [Best Poster Award](https://cps-vo.org/node/83066) at Hot Topic in Science of Security (HotSoS) Symposium 2022!
 
 **March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April, 2022. 
