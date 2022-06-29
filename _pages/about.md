@@ -15,11 +15,13 @@ In Summer 2021, I interned at PayPal with the Threat management team supervised 
 
 Previously, I worked at [KONA](https://konai.com), where I developed mobile payment solutions for both android and iOS platforms and before that, I completed my Bachelors in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). 
 
-I am open for collaborating in my research domain so fell free to message if you are interested. 
+I am actively looking for Research Scientist positions at Industry, so feel free to message me if your team is hiring! 
 
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
+
+**May 2022:** I started my summer internship with the AI Security team at Meta!
 
 **April 2022:** I passed my Oral Preliminary Exam (Ph.D. Proposal). Officially a Ph.D candidate now!
 
@@ -27,7 +29,7 @@ I am open for collaborating in my research domain so fell free to message if you
 
 **March 2022:** Our poster abstract got accepted at [HotSoS 2022!](https://cps-vo.org/group/hotsos/agenda) I will be presenting our poster virtually in April, 2022. 
 
-**February 2022:** I am excited to share I have accepted an internship offer from the Product Security team at [Facebook](https://www.metacareers.com) for  summer 2022!
+**February 2022:** I am excited to share I have accepted a summer internship offer at [Meta](https://www.metacareers.com) for  summer 2022!
 
 **May 2021:** Looking forward to my virtual summer internship at [PayPal](https://www.paypal.com/us/home) with the InfoSec team in Scottsdale, AZ!
 
