@@ -7,7 +7,7 @@ author_profile: true
 
 # Conference Publications:
 
-- **Samin Yaseer Mahmud**, K. Virgil English, Seaver Thorn, William Enck, Adam Oest and Muhammad Saad. *AARDroid: Analysis of Payment Service Provider SDKs in Android*. (Submission under review at **USENIX Security Symposium** 2022)
+- **Samin Yaseer Mahmud**, K. Virgil English, Seaver Thorn, William Enck, Adam Oest and Muhammad Saad. *Analysis of Payment Service Provider SDKs in Android*. (Submission under review at **Annual Computer Security Applications Conference (ACSAC)** 2022)
 
 - **Samin Yaseer Mahmud**, Akhil Acharya, Benjamin Andow, William Enck, and Bradley Reaves. *Cardpliance: PCI DSS Compliance of Android Applications*. In Proceedings of the 29th **USENIX Security Symposium** (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](http://saminmahmud.com/files/papers/sec20-mahmud.pdf) [\[Presentation\]](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) [\[BibTex\]](https://www.usenix.org/biblio/export/bibtex/251522) [\[Source\]](https://github.com/wspr-ncsu/cardpliance) 
 
