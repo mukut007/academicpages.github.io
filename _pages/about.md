@@ -17,7 +17,7 @@ In summer 2022, I interned with the AI Security team at Meta as a Software Engin
 
 Previously, I worked at [KONA](https://konai.com), where I developed mobile payment solutions for both android and iOS platforms and before that, I completed my Bachelors in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). 
 
-I am actively looking for Research Scientist positions at Industry, so feel free to message me if your team is hiring! 
+I am actively looking for industry positions at Research Scientist or Software Engineer roles, so feel free to message me if your team is hiring! 
 
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
