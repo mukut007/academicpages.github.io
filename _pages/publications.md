@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Conference Publications:
-- **Samin Yaseer Mahmud**, K. Virgil English, Seaver Thorn, William Enck, Adam Oest, Muhammad Saad. *Analysis of Payment Service Provider SDKs in Android*. In Proceedings of the **Annual Computer Security Applications Conference** (ACSAC), December 2022, Austin, TX, USA. [\[PDF\]]([http://saminmahmud.com/files/papers/sec20-mahmud.pdf](https://github.com/mukut007/academicpages/blob/master/files/papers/acsac22-mahmud.pdf)) 
+- **Samin Yaseer Mahmud**, K. Virgil English, Seaver Thorn, William Enck, Adam Oest, Muhammad Saad. *Analysis of Payment Service Provider SDKs in Android*. In Proceedings of the **Annual Computer Security Applications Conference** (ACSAC), December 2022, Austin, TX, USA. [\[PDF\]](https://github.com/mukut007/academicpages/blob/master/files/papers/acsac22-mahmud.pdf) 
 
 - **Samin Yaseer Mahmud**, Akhil Acharya, Benjamin Andow, William Enck, and Bradley Reaves. *Cardpliance: PCI DSS Compliance of Android Applications*. In Proceedings of the 29th **USENIX Security Symposium** (SECURITY), August 2020, Boston, MA, USA. [\[PDF\]](http://saminmahmud.com/files/papers/sec20-mahmud.pdf) [\[Presentation\]](https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud) [\[BibTex\]](https://www.usenix.org/biblio/export/bibtex/251522) [\[Source\]](https://github.com/wspr-ncsu/cardpliance) 
 
