@@ -22,6 +22,7 @@ I am actively looking for industry positions at Research Scientist or Software E
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
+**September 2022:** Our [paper](), Analysis of Payment Service Provider SDKs in Android, has been accepted for publication at the 2022 Annual Computer Security Applications Conference (ACSAC).
 
 **May 2022:** I started my summer internship with the AI Security team at Meta!
 
