@@ -24,6 +24,8 @@ I am actively looking for industry positions at Research Scientist or Software E
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
+**October 2023:** I gave a talk about my Ph.D. research work at IBM Security and Privacy Research Seminar !
+
 **May 2023:** I am excited to start my third Ph.D internship with KNOX Security team at Samsung Research America for the summer 2023!
 
 **September 2022:** Our [paper](https://saminmahmud.com/files/papers/acsac22-mahmud.pdf), Analysis of Payment Service Provider SDKs in Android, has been accepted for publication at the 2022 Annual Computer Security Applications Conference (ACSAC).
