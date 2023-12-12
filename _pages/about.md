@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D Candidate in the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu) and I am working as a Research Assistant at [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu). I am advised by [Dr. William Enck](https://www.enck.org). My research interests broadly fall within the areas of systems security and privacy, currently with a focus on analyzing and improving the security of mobile payment systems and protocols. I apply program analysis and reverse engineering techniques to discover vulnerabilities in Android applications. My recent publications include performing static analysis to find non-compliance of payment apps with industry standards(PCI DSS), finding contradictory privacy policy of Android applications and identifying flow to policy level inconsistencies of apps from Google Play Store. These works have been recently published at USENIX Security. 
+I have received my Ph.D from the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu) and I worked there as a Research Assistant at [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu) advised by [Dr. William Enck](https://www.enck.org). My research interests broadly fall within the areas of systems security and privacy, currently with a focus on analyzing and improving the security of mobile payment systems and protocols. I apply program analysis and reverse engineering techniques to discover vulnerabilities in Android applications. My recent publications include performing static analysis to find non-compliance of payment apps with industry standards(PCI DSS), finding contradictory privacy policy of Android applications and identifying flow to policy level inconsistencies of apps from Google Play Store. These works have been recently published at USENIX Security. 
 
 In summer 2021, I interned at PayPal with the Threat management team as a research intern. I worked under the supervision of Dr. RC Johnson and Dr. Adam Oest. In this internship I explored different ways PayPal's in house mobile payment SDKs (i.e Braintree, PayPal) could be misued in both Android and iOS ecosystem and tried to measure the impact in terms of both financial loss and security implications. 
 
@@ -18,12 +18,13 @@ In summer 2022, I interned with the AI Security team at Meta as a Software Engin
 In summer 2023, I interned with the Knox Security team at Samsung Research America as a Research Intern under the supervision of Dr. Mike Grace and Dr. Hayawardh Vijaykumar. There I researched how KNOX platform features in Android can meet security requirements from Payment Card Industry's security standards and enhance user experience in terms of security and usability. 
 
 Previously, I worked at [KONA](https://konai.com), where I developed mobile payment solutions for both android and iOS platforms and before that, I completed my Bachelors in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). 
-
-I am actively looking for industry positions at Research Scientist or Software Engineer roles, so feel free to message me if your team is hiring! 
+ 
 
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
+**December 2023:** I have successfully defended my Ph.D. thesis defence, I am finally doctorate in Computer Science!!
+
 **October 2023:** I was invited to give a talk about my Ph.D. research work at IBM Security and Privacy Research Seminar !
 
 **May 2023:** I am excited to start my third Ph.D internship with KNOX Security team at Samsung Research America for the summer 2023!
