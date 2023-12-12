@@ -23,7 +23,7 @@ Previously, I worked at [KONA](https://konai.com), where I developed mobile paym
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
-**December 2023:** I have successfully defended my Ph.D. thesis defence, I am finally doctorate in Computer Science!!
+**December 2023:** I have successfully defended my Ph.D. thesis defense, I am finally doctorate in Computer Science!!
 
 **October 2023:** I was invited to give a talk about my Ph.D. research work at IBM Security and Privacy Research Seminar !
 
