@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I have received my Ph.D from the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu) and I worked there as a Research Assistant at [Wolfpack Security and Privacy Research Lab](https://wspr.csc.ncsu.edu). I was advised by [Dr. William Enck](https://www.enck.org). My research interests broadly fall within the areas of systems security and privacy, currently with a focus on analyzing and improving the security of mobile payment systems and protocols. I apply program analysis and reverse engineering techniques to discover vulnerabilities in Android applications. My recent publications include performing static analysis to find non-compliance of payment apps with industry standards(PCI DSS), finding contradictory privacy policy of Android applications and identifying flow to policy level inconsistencies of apps from Google Play Store. These works have been recently published at USENIX Security. 
+I have received my Ph.D from the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu) and currently working as a Research Scientist at Meta. I was advised by [Dr. William Enck](https://www.enck.org). My research interests broadly fall within the areas of systems security and privacy, currently with a focus on analyzing and improving the security of mobile payment systems and protocols. My expertise lies in applying various program analysis techniques to build analysis tools and reverse engineer the code to discover and verify security weaknesses, vulnerabilities and policy non compliances in Softwares particularly, Android. 
 
 In summer 2021, I interned at PayPal with the Threat management team as a research intern. I worked under the supervision of Dr. RC Johnson and Dr. Adam Oest. In this internship I explored different ways PayPal's in house mobile payment SDKs (i.e Braintree, PayPal) could be misued in both Android and iOS ecosystem and tried to measure the impact in terms of both financial loss and security implications. 
 
@@ -23,6 +23,8 @@ Previously, I worked at [KONA](https://konai.com), where I developed mobile paym
 [\[High Resolution Photo\]](https://saminmahmud.com/images/full.jpg)
 
 ## Recent News:
+**January 2024:** I am excited to share that I will be joining Meta as a Research Scientist from January, 2024. I will be working with the Instagram Data Transperency team.
+
 **December 2023:** I have successfully defended my Ph.D. thesis defense, I am finally doctorate in Computer Science!!
 
 **October 2023:** I was invited to give a talk about my Ph.D. research work at IBM Security and Privacy Research Seminar !
