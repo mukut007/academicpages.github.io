@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a Security and Privacy Researcher. I am currently working as a Research Scientist at [Meta](https://about.meta.com/actions/protecting-privacy-and-security/). I have received my Ph.D from the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu).  I was advised by [Dr. William Enck](https://www.enck.org). My research interests broadly fall within the areas of software security and privacy, with a specific focus on analyzing and improving the security of mobile payment systems and protocols. My expertise lies in applying various program analysis techniques to build analysis tools and reverse engineer the code to discover and verify security weaknesses, vulnerabilities and policy non compliances in Softwares particularly, Android. 
+I am a Security and Privacy Researcher. I am currently working as a Research Scientist at [Meta](https://about.meta.com/actions/protecting-privacy-and-security/). I have received my Ph.D from the Department of [Computer Science](https://www.csc.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu).  I was advised by [Dr. William Enck](https://www.enck.org). 
+
+My research interests broadly fall within the areas of software security and privacy. My dissertaition was focused on analyzing and improving the security of payment systems and protocols in Android. My expertise lies in applying various program analysis techniques to build analysis tools and reverse engineer to discover and verify security weaknesses, vulnerabilities and policy non compliances in Softwares particularly, Android. 
 
 In summer 2021, I interned at PayPal with the Threat management team as a research intern. I worked under the supervision of Dr. RC Johnson and Dr. Adam Oest. In this internship I explored different ways PayPal's in house mobile payment SDKs (i.e Braintree, PayPal) could be misued in both Android and iOS ecosystem and tried to measure the impact in terms of both financial loss and security implications. 
 
